@@ -1,14 +1,14 @@
 The Premium of Proximity: Modeling the Impact of Amenities on HDB Resale Prices
 
 Problem Statement
-The Conflict: 
-Homebuyers face a "sandwich" problem: they want convenience (MRT) and priority for their children (Primary Schools), but these often come with a massive “proximity premium.”
-The Gap: 
-While general HDB prices are known, it is difficult for buyers to quantify exactly how much extra they are paying for being <1km vs. >1km away from a specific amenity.
+* The Conflict: 
+  Homebuyers face a "sandwich" problem: they want convenience (MRT) and priority for their children (Primary Schools), but these often come with a massive “proximity premium.”
+* The Gap: 
+  While general HDB prices are known, it is difficult for buyers to quantify exactly how much extra they are paying for being <1km vs. >1km away from a specific amenity.
 
 Target Audience
-Homebuyers: To help them decide if a premium for top primary schools is worth it.
-Real Estate Agents: To provide data-backed justifications for asking prices.
+* Homebuyers: To help them decide if a premium for top primary schools is worth it.
+* Real Estate Agents: To provide data-backed justifications for asking prices.
 
 
 Documentation of files submitted
