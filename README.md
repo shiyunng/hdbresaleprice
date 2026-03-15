@@ -1,3 +1,16 @@
+The Premium of Proximity: Modeling the Impact of Amenities on HDB Resale Prices
+
+Problem Statement
+* The Conflict: 
+  Homebuyers face a "sandwich" problem: they want convenience (MRT) and priority for their children (Primary Schools), but these often come with a massive ‚Äúproximity premium.‚Äù
+* The Gap: 
+  While general HDB prices are known, it is difficult for buyers to quantify exactly how much extra they are paying for being <1km vs. >1km away from a specific amenity.
+
+Target Audience
+* Homebuyers: To help them decide if a premium for top primary schools is worth it.
+* Real Estate Agents: To provide data-backed justifications for asking prices.
+
+
 Documentation of files submitted
 
 1. Technical Report
@@ -6,14 +19,14 @@ Documentation of files submitted
 
 
 
-2. Jupyter Notebook (run in Colab) ñ
+2. Jupyter Notebook (run in Colab) ‚Äì
 
-* HDB Resale flat 2015 to 2025 Python ñ GeoAPI
+* HDB Resale flat 2015 to 2025 Python ‚Äì GeoAPI
 * HDB Resale flat 2015 to 2025 Python - Analytics
 
 
 
-3. Presentation Deck ñ
+3. Presentation Deck ‚Äì
 
 * PDF:
   Capstone Presentation Final - Shi Yun DABPT03
